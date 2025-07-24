@@ -41,7 +41,7 @@ a {
   font-size: 17px;
 }
 
-@media (max-width: 1400px) {
+@media (max-width: 1399px) {
   .btn {
     background-color: rgb(112, 192, 91);
     border: none;
